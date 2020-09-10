@@ -9,5 +9,6 @@ Welcome!
 - 🌱 I’m currently learning how to use Django to build websites
 - 👯 I’m looking to collaborate with organizations that combat human trafficking
 - 🤔 I’m looking for help with vectors and animations
+
 [<img src="https://img.icons8.com/material/24/000000/linkedin--v1.png" alt="linkedin logo">](https://www.linkedin.com/in/issac-moreno-7a9116121/)
 
